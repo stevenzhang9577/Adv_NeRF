@@ -1,5 +1,5 @@
 # AdvNeRF: Generating 3D Adversarial Meshes With NeRF to Fool Driving Vehicles (IEEE TIFS 2025)
-Official implementation of ["**[AdvNeRF: Generating 3D Adversarial Meshes With NeRF to Fool Driving Vehicles (IEEE TIFS 2025)](https://doi.org/10.1109/TIFS.2025.3609180)**"], **[Boyuan Zhang](https://scholar.google.com/citations?user=uBBaTjEAAAAJ&hl=en)**,**[Jiaxu Li](https://scholar.google.com/citations?user=annoZWEAAAAJ&hl=en)**, **[Yucheng Shi](https://scholar.google.com/citations?user=annoZWEAAAAJ&hl=en)**, **[YaHong Han](http://cic.tju.edu.cn/faculty/hanyahong/index.html)**, **[Qinghua Hu](https://scholar.google.com/citations?user=TVSNq_wAAAAJ&hl=en)**.
+Official implementation of ["**[AdvNeRF: Generating 3D Adversarial Meshes With NeRF to Fool Driving Vehicles (IEEE TIFS 2025)](https://doi.org/10.1109/TIFS.2025.3609180)**"], **[Boyuan Zhang](https://scholar.google.com/citations?user=uBBaTjEAAAAJ&hl=en)**, **[Jiaxu Li](https://scholar.google.com/citations?user=annoZWEAAAAJ&hl=en)**, **[Yucheng Shi](https://scholar.google.com/citations?user=annoZWEAAAAJ&hl=en)**, **[YaHong Han](http://cic.tju.edu.cn/faculty/hanyahong/index.html)**, **[Qinghua Hu](https://scholar.google.com/citations?user=TVSNq_wAAAAJ&hl=en)**.
 DOI: https://doi.org/10.1109/TIFS.2025.3609180
 
 
