@@ -27,15 +27,14 @@ The datasets used in the paper are available at the following links:
 
 * Python 3.11
 * PyTorch 1.13.0
-* numpy
-* Pillow
+* timm
+* pytorch-lightning
 * torchvision
-* scipy
 
 ### 2.3 Train
 
 ```
-python attack.py --device 0 --dataset MS_coco --models ./models --rounds 40 --model_number 5
+python attack.py --device 0 --dataset IM3D --vision ./models/resnet --lidar pointpillars
 ```
 
 ## Citation
